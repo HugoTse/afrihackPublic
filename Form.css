@@ -1,0 +1,19 @@
+#formDiv{
+    background-color: grey;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    height: 90vh;
+}
+.inputElement{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 3px;
+    border-radius: 5px;
+    height: 20px;
+    margin-bottom: 5px;
+}
+#cnButton{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
